@@ -4,7 +4,7 @@ set -ex
 
 npm list mdpdf -g || npm install mdpdf -g
 
-INPUT="README"
+INPUT="RESUME"
 OUTPUT="export/Resume-AlekseyKuznetsov.pdf"
 # mdpdf has a bug with line brankes, see:
 # https://github.com/BlueHatbRit/mdpdf/issues/46
