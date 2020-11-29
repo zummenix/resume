@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+set -ex
+
+npm list mdpdf -g || npm install mdpdf -g
+
+INPUT="README"
+OUTPUT="export/Resume-AlekseyKuznetsov.pdf"
+# We use A5 format since mdpdf has a bug with line brankes, see:
+# https://github.com/BlueHatbRit/mdpdf/issues/46
+mdpdf "$INPUT.md" --format=A5 && mv "$INPUT.pdf" "$OUTPUT" && open "$OUTPUT"
+
