@@ -1,9 +1,6 @@
 # Aleksey Kuznetsov – Senior iOS Developer
 
-> [zummenix@gmail.com](mailto:zummenix@gmail.com) |
-[LinkedIn](https://www.linkedin.com/in/zummenix) |
-[GitHub](https://github.com/zummenix) |
-[Instagram](https://www.instagram.com/zummenix)
+> [zummenix@gmail.com](mailto:zummenix@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zummenix) | [GitHub](https://github.com/zummenix) | [Instagram](https://www.instagram.com/zummenix)
 
 - 7+ years of professional experience in iOS development (Swift and
   Objective-C)
@@ -11,8 +8,8 @@
 - 20+ projects with my participation
 - trained and mentored several iOS Developers
 
-_I strive to write documented and readable code with tests where it needed,
-automate repetitive tasks, learn from others and share my knowledge._
+I strive to write documented and readable code with tests where it needed,
+automate repetitive tasks, learn from others and share my knowledge.
 
 ## Skills / Tools
 
