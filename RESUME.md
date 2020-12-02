@@ -50,7 +50,7 @@ _iPhone app – Continuous Thermometer_
   component; UI and logic for temperature and sensor notifications.
 - _Tech_ – Swift, CoreGraphics, CoreBluetooth, Realm
 
-#### [Steady Head](https://apps.apple.com/us/app/steady-head/id1438719498)
+#### [Steady Head](https://steadyheadgolfswingtrainer.com)
 
 _iPhone app – Golf Swing Trainer_
 
