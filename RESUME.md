@@ -42,6 +42,14 @@ developers, setting and splitting tasks.
 
 **Notable projects:**
 
+#### [ICON Intelligent Control](https://apps.apple.com/us/app/icon-intelligent-control/id1531067407)
+
+_iPhone app – adjust ICON Vehicle Dynamics electronic shocks_
+
+- _Participation_ – implement custom communication protocol over bluetooth with the ICON
+  Vehicle Dynamics box; communication and firmware update logic; UI.
+- _Tech_ – Swift, CoreBluetooth, Alamofire
+
 #### [Masimo Radius T°](https://apps.apple.com/us/app/masimo-radius-t/id1537213321)
 
 _iPhone app – Continuous Thermometer_
