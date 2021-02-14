@@ -2,11 +2,10 @@
 
 set -ex
 
-npm list mdpdf -g || npm install mdpdf -g
+npm list md-to-pdf -g || npm install md-to-pdf -g
 
 INPUT="RESUME"
 OUTPUT="export/Resume-AlekseyKuznetsov.pdf"
-# mdpdf has a bug with line brankes, see:
-# https://github.com/BlueHatbRit/mdpdf/issues/46
-mdpdf "$INPUT.md" --format=A4 && mv "$INPUT.pdf" "$OUTPUT" && open "$OUTPUT"
+
+md-to-pdf "$INPUT.md" && mv "$INPUT.pdf" "$OUTPUT" && open "$OUTPUT"
 
