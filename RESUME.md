@@ -1,10 +1,10 @@
-# Aleksey Kuznetsov – Senior iOS Developer
+# Aleksey Kuznetsov – iOS Engineer
 
 > [zummenix@gmail.com](mailto:zummenix@gmail.com) | <!-- markdown-link-check-disable -->[LinkedIn](https://www.linkedin.com/in/zummenix)<!-- markdown-link-check-enable --> | [GitHub](https://github.com/zummenix) | [Telegram](https://t.me/zummenix) | [Instagram](https://www.instagram.com/zummenix)
 
-- 7+ years of professional experience in iOS development (Swift and
+- 8+ years of professional experience in iOS development (Swift and
   Objective-C)
-- 10+ years of programming in total
+- 11+ years of programming in total
 - 20+ projects with my participation
 - trained and mentored several iOS Developers
 
@@ -19,7 +19,7 @@ automate repetitive tasks, learn from others and share my knowledge.
 - _Libraries_ – Alamofire/AFNetworking, Moya, Kingfisher, Cartography, R.swift,
   Reusable, Realm
 - _FRP_ – RxSwift, Combine
-- _Architectures_ – MVC, MVVM, MVVM + Coordinators
+- _Architecture Patterns_ – MVC, MVVM, MVVM + Coordinators
 - _Methodologies_ – OOP, Functional Programming, TDD, Git Flow
 - _UI_ – Storyboards/Xibs/Code, autolayout and frame based layout
 - _CI/CD_ – Jenkins, Fastlane, Travis/GitHub Actions (for open source projects)
@@ -31,9 +31,17 @@ automate repetitive tasks, learn from others and share my knowledge.
 
 ## Work Experience
 
+### iOS Engineer
+
+> _November 2021 to Present_ | [Akvelon](https://akvelon.com)
+
+_Description to be written_
+
+---
+
 ### iOS Developer
 
-> _September 2013 to Present_ | [Очень Интересно (Saritasa)](https://www.interesnee.ru)
+> _September 2013 to October 2021_ | [Очень Интересно (Saritasa)](https://www.interesnee.ru)
 
 Developing iOS applications with different levels of complexity from start to
 finish; building new features and fixing bugs in existing apps; communicating
