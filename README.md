@@ -1,6 +1,6 @@
 # Welcome!
 
-I'm an iOS Developer interested in many technologies.
+I'm an iOS Engineer interested in many technologies.
 
 Here is my public CV/Resume in different formats:
 
