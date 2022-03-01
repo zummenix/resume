@@ -35,7 +35,15 @@ automate repetitive tasks, learn from others and share my knowledge.
 
 > _November 2021 to Present_ | [Akvelon](https://akvelon.com)
 
-_Description to be written_
+#### [Reddit](https://apps.apple.com/us/app/reddit/id1064216828)
+
+_Official Reddit app_
+
+- _Participation_ – took part in converting app's core from Objective-C to
+  Swift. Efforts to modularize the monolith and facilitate modularization
+  for other teams. Detailed actions to remove some singleton usages throughout
+  the whole app. General code improvements and app's stability improvements.
+- _Tech_ – Objective-C, Swift
 
 ---
 
