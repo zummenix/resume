@@ -33,7 +33,7 @@ automate repetitive tasks, learn from others and share my knowledge.
 
 ### iOS Engineer
 
-> _November 2021 to Present_ | [Akvelon](https://akvelon.com)
+> _November 2021 to March 2021_ | [Akvelon](https://akvelon.com)
 
 #### [Reddit](https://apps.apple.com/us/app/reddit/id1064216828)
 
